@@ -1,0 +1,22 @@
+p{
+color: black;
+}
+#myform{
+background-color: rgba(203, 246, 245, 0.5);
+margin: 10% 300% 15% -50%;
+width: 300px;
+padding: 2% 5%;
+border-radius: 0%;
+box-shadow: 0 0 10% 1 rgba(200, 240, 240, 0.7);
+    }
+#second{
+margin: 0 0 0 -60%;
+} 
+body {
+
+    background-image: url(image1_1.jpg); 
+    background-attachment: fixed; 
+    color: #fff; 
+    background-repeat: no-repeat; 
+    background-size: 100% 100%;
+   }
